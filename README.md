@@ -1,4 +1,3 @@
-# Kitty-Config
-My kittty config
-![image](https://github.com/user-attachments/assets/6a808f0a-4cb9-4cef-b230-7c0cc69ca71b)
+# kittty config
 
+![obraz](https://github.com/user-attachments/assets/5b45c224-a3aa-4993-aad8-0b14a3ed2294)
